@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Prosta aplikacja todo listy w React",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.1"
+  }
+}
